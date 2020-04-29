@@ -29,8 +29,10 @@ Bugüne kadar insan etkileşimleri ile ilgili araştırmalar, genelde kişinin b
 
 Ayrıca, toplumun makro sosyal ağının nasıl göründüğünü ve zaman içinde nasıl şekillendiği de incelenebilir (5). Telefon şirketleri yıllara ait telefon görüşmesi örüntülerine sahip olduğu gibi, Yahoo ve Google gibi e-portallar da dünya genelinde anlık mesajlajma verilerine sahipler. Bu veriler toplum düzeyinde, kuşatıcı bir şekilde iletişim örüntülerinin resmini çiziyor mu? Bu etkileşimler ekonomik üretkenliği veya toplum sağlığını ne şekilde etkiliyor? Dahası, insanların hareketlerini takip etmek de çok kolaylaştı (6). Cep telefonları büyük ölçekte insanların hareketlerini ve fiziksel yakınlıklarını takip etme olanağı sunuyor (7). Bu veriler, salgın hastalıklar bilimi (epidemiyoloji) adına kullanışlı bilgiler verebilir: Gripteki gibi fiziksel yakınlıkla bulaşan bir patojen toplumda nasıl yayılıyor?
 
-<p align="center">  ![](../images/red-blue-blogs.gif)</p>
-**Blog dünyasından bir veri kümesi**. Kırmızılar: Muhafazakar bloglar, maviler: Liberal bloglar, turuncu linkler liberalden muhafazakara, mor linkler muhafazakardan liberale. Blogların boyutu diğer bloglardan aldığı linkle orantılı. (9) çalışmasından izinle tekrar üretilmiştir.
+
+| ![](../images/red-blue-blogs.gif) | 
+|:--:|
+| **Blog dünyasından bir veri kümesi**. Kırmızılar: Muhafazakar bloglar, maviler: Liberal bloglar, turuncu linkler liberalden muhafazakara, mor linkler muhafazakardan liberale. Blogların boyutu diğer bloglardan aldığı linkle orantılı. (9) çalışmasından izinle tekrar üretilmiştir.|
 
 
 İnternet insanların ne dediğini ve nasıl bağlandığını anlamamız adına tamamen farklı bir kanal sunuyor (8). Son siyasi atmosferi düşünün mesela, argümanların yayılışının, dedikoduların, politik veya diğer mevzularda alınan pozisyonların takip edildiği blog dünyası (9), seçmenin endişelerinin aramalarda görünür olduğu bir dünya. Sanal dünyalar, doğaları gereği bireyin her türlü davranışını kayıt altına alıyor, araştırma için de çok çeşitli fırsatlar sunuyor - normalde yapılması mümkün olmayan veya kabul edilemez deneyler gibi (11). Benzer şekilde, sosyal ağ siteleri, bireyin kendi ağındaki etkisinden tutun, zevklerini, oradan halini keyfini, hatta sağlık durumunu anlamaya olanaklar sunarken (12), doğal dil işleme (NLP) İnternetten ve diğer kaynaklardan edinilen metinleri organize ve analiz etme kapasitesini artırıyor (13).
