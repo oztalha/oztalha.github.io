@@ -7,7 +7,7 @@ slug: hesaplamali-sosyal-bilimler
 status: published
 ...
 
-
+<!-- pandoc --template=GitHub.html5 --self-contained hesaplamali-sosyal-bilimler.md -o ../posts/hesaplamali-sosyal-bilimler.html-->
 Editör notu: Çevirmiş olduğum bu yazı, açık veri ve hesaplamalı sosyal bilimler üzerine olup, 2009 yılında Science makalesinde yayınlanmıştır. Yazarlar bu alanın kurucuları arasında sayılabilirler.
 
 David Lazer, Alex Sandy Pentland, Lada Adamic, Sinan Aral, Albert Laszlo Barabasi, Devon Brewer, Nicholas Christakis et al. "Life in the network: the coming age of computational social science." *Science (New York, NY)* 323, no. 5915 (2009): 721.
@@ -30,7 +30,7 @@ Bugüne kadar insan etkileşimleri ile ilgili araştırmalar, genelde kişinin b
 Ayrıca, toplumun makro sosyal ağının nasıl göründüğünü ve zaman içinde nasıl şekillendiği de incelenebilir (5). Telefon şirketleri yıllara ait telefon görüşmesi örüntülerine sahip olduğu gibi, Yahoo ve Google gibi e-portallar da dünya genelinde anlık mesajlajma verilerine sahipler. Bu veriler toplum düzeyinde, kuşatıcı bir şekilde iletişim örüntülerinin resmini çiziyor mu? Bu etkileşimler ekonomik üretkenliği veya toplum sağlığını ne şekilde etkiliyor? Dahası, insanların hareketlerini takip etmek de çok kolaylaştı (6). Cep telefonları büyük ölçekte insanların hareketlerini ve fiziksel yakınlıklarını takip etme olanağı sunuyor (7). Bu veriler, salgın hastalıklar bilimi (epidemiyoloji) adına kullanışlı bilgiler verebilir: Gripteki gibi fiziksel yakınlıkla bulaşan bir patojen toplumda nasıl yayılıyor?
 
 
-| ![](../images/red-blue-blogs.gif) | 
+| ![](../images/red-blue-blogs.gif) |
 |:--:|
 | **Blog dünyasından bir veri kümesi**. Kırmızılar: Muhafazakar bloglar, maviler: Liberal bloglar, turuncu linkler liberalden muhafazakara, mor linkler muhafazakardan liberale. Blogların boyutu diğer bloglardan aldığı linkle orantılı. (9) çalışmasından izinle tekrar üretilmiştir.|
 
